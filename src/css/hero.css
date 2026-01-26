@@ -1,0 +1,29 @@
+.hero {
+    max-width: 1410px;
+}
+.hero-container {
+    background-image: url("/src/img/images/hero/hero-desktop.jpg , /src/img/images/hero/hero-tablet@1x.jpg 1x, /src/img/images/hero/hero-mobile@2x.jpg 2x" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hero-picture {
+}
+.hero-title {
+    font-weight: 500;
+    font-size: 90px;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.hero-navigaton {
+}
+.hero-list {
+}
+.hero-item {
+}
+.hero-link {
+}
+.hero-button {
+}
